@@ -1,0 +1,11 @@
+Package: jmvexamples
+Type: Package
+Title: jamovi examples
+Version: 0.1.0
+Author: Jonathon Love
+Maintainer: Jonathon Love <jon@thon.cc>
+Description: jamovi examples provides a number of analyses which demonstrate
+  the development of analyses for the jamovi platform
+License:
+LazyData: TRUE
+Imports: jmvcore

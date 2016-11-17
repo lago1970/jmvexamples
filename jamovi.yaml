@@ -1,0 +1,48 @@
+title: jamovi examples
+name: jmvexamples
+version: 0.1.0
+author: Jonathon Love
+maintainer: Jonathon Love <jon@thon.cc>
+date: '1970-01-01'
+type: R
+description: >-
+  jamovi examples provides a number of analyses which demonstrate  the
+  development of analyses for the jamovi platform
+jmc: 1.0.0
+analyses:
+  - title: Example 0
+    name: Example00
+    ns: jmvexamples
+    group: jmvexamples
+    description: |
+      Example 0
+  - title: Example 1
+    name: Example01
+    ns: jmvexamples
+    group: jmvexamples
+    description: |
+      Example 1
+  - title: Example 2
+    name: Example02
+    ns: jmvexamples
+    group: jmvexamples
+    description: |
+      Example 2
+  - title: Example 3
+    name: Example03
+    ns: jmvexamples
+    group: jmvexamples
+    description: |
+      Example 3
+  - title: Example 4
+    name: Example04
+    ns: jmvexamples
+    group: jmvexamples
+    description: |
+      Example 4
+  - title: Example 5
+    name: Example05
+    ns: jmvexamples
+    group: jmvexamples
+    description: |
+      Example 5
